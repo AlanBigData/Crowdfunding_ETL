@@ -2,7 +2,7 @@
 
 ## Completed By: Alan Lawrence
 
-### 1. [Mini Project Pandas Notbook](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code_ALawrence.ipynb)
+### 1. [Mini Project Pandas Notbook Link](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code_ALawrence.ipynb)
 
 ### 2. Exported DataFrames
    - [Campaign](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
