@@ -9,3 +9,4 @@
    - [Categories](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/category.csv)
    - [Subcategories](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
    - [Contacts Cleaned](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
+   - [Data Model](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/prj2_dataModel.png)
