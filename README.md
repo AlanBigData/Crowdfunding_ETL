@@ -11,4 +11,8 @@
    - [Categories - CSV](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/category.csv)
    - [Subcategories - CSV](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
    - [Contacts Cleaned - CSV](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
+   - [Campaign Select - PNG](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/campaign_select.png)
+   - [Contacts Select - PNG](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/contacts_select.png)
+   - [Category Select - PNG](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/category_select.png)
+   - [Subcategory Select - PNG](https://github.com/AlanBigData/Crowdfunding_ETL/blob/main/Resources/subcategory_select.png)
   
